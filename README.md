@@ -13,7 +13,7 @@ I'am a student at Wuhan Institute of Technology, China, majoring in Data Science
 📫 How to reach me？ https://smallhdcc.github.io/.
 
 ## Work
-- 2024.3 - 2022.6 **QA Intern** @ * Wuhan Shangyue Network Technology Co., Ltd.*
+- 2024.3 - 2024.6 **QA Intern** @ * Wuhan Shangyue Network Technology Co., Ltd.*
 
 ## Open Source Contributions
 
