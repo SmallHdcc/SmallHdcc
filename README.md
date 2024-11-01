@@ -10,7 +10,7 @@ I'am a student at Wuhan Institute of Technology, China, majoring in Data Science
 
 🌱 I’m currently learning distributed system
 
-📫 How to reach me？ https://smallhdcc.github.io/.
+📫 How to reach me？ hanyuxueqi@foxmail.com.
 
 ## Work
 - 2024.3 - 2024.6 **QA Intern** @ * Wuhan Shangyue Network Technology Co., Ltd.*
